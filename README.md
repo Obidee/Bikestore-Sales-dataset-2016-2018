@@ -1,7 +1,7 @@
 # Bikestore Sales Analysis (2016-2018)
 
 
-Exploratory analysis on the sales data of a bike sales company between the years of 2016 and 2018 
+This repository describes an exploratory analysis on the sales data of a bike sales company between the years of 2016 and 2018 
 
 This is a data set I got from https://www.sqlservertutorial.net/sql-server-sample-database/ which describes the pattern of sales (between 2016 and 2018) from the database of a bike sales company across 3 different store locations in the United States.
 
