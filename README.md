@@ -6,5 +6,5 @@ This is a data set I got from https://www.sqlservertutorial.net/sql-server-sampl
 Steps taken:
 1. I downloaded the SQL dataset which was saved as MicrosoftSQLserver. I use MySQL, so I had to rewrite the load syntax and statements in a way MySql would understand.
 2. Data Cleaning: The dataset was relatively clean, so there was not a lot to do by way of cleaning.
-3. Perform EDA based on the problem statement from the challenge.
+3. Perform EDA based on the problem statement from the challenge, using SQL and subsequently Excel.
 4. Visualize the analysis using Excel.
