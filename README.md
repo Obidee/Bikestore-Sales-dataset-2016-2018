@@ -1,4 +1,4 @@
-#Bikestore Sales Analysis (2016-2018)
+# Bikestore Sales Analysis (2016-2018)
 
 
 Exploratory analysis on the sales data of a bike sales company between the years of 2016 and 2018 
