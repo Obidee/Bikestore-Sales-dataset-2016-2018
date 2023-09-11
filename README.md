@@ -15,3 +15,7 @@ This is a dataset I got from https://www.sqlservertutorial.net/sql-server-sample
 
 
 4.	Visualize the analysis using Excel charts and graphs, as well as using Tableau public.
+
+
+Here is the link to the Tableau visualization.
+https://public.tableau.com/app/profile/obidinma.nnebe/viz/Bikestores2016-2018/Dashboard1?publish=yes
